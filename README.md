@@ -79,11 +79,6 @@
     <li>Deployment or API (optional)</li>
   </ul>
 
-  <h2>🕐 Timeline</h2>
-  <p>The project must be completed and submitted within <strong>10 days</strong> of assignment.</p>
-
-  <h2>📞 Doubt Clarification Sessions</h2>
-  <p>Dedicated sessions to address code issues, project doubts, and conceptual questions for smooth execution and clarity.</p>
 
 </body>
 </html>
